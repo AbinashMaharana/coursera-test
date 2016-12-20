@@ -1,0 +1,32 @@
+.navbar{
+	background-color: #ccc;
+}
+#nav-list{
+	background-color: #fff;
+}
+#nav-list a {
+	text-align: center;
+	font-weight: 600;
+}
+.navbar-brand h1{
+	color: #000;
+margin-top:0px;
+margin-bottom: 0px;
+line-height: .75;
+font-weight: bold;
+text-shadow: 1px 1px 1px #000;
+font-family: 'lora',serif;
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+text-decoration: none;
+}
+.brandmenu{
+	font-weight: bold;
+}
+.content{
+	background-color: #ccc;
+	padding: 5px;
+}
+.item{
+	font-weight: 600;
+}
